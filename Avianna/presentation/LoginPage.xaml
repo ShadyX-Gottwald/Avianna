@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Avianna.presentation.LoginPage"
+             xmlns:uranium="http://schemas.enisn-projects.io/dotnet/maui/uraniumui"
+             xmlns:material="http://schemas.enisn-projects.io/dotnet/maui/uraniumui/material"
+              xmlns:viewmodel="clr-namespace:Avianna.Features.LoginRegister"
+             Title="LoginPage">
+
+ <!--Import Viewmodel--> 
+            <ContentPage.BindingContext> 
+                <viewmodel:LoginRegisterViewModel ></viewmodel:LoginRegisterViewModel>
+            </ContentPage.BindingContext>
+             <!--Main Grid-->
+   <Grid  BackgroundColor="{StaticResource DeepPurple}"> 
+
+    <Grid.RowDefinitions> 
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        
+    </Grid.RowDefinitions>
+
+    <!--Image and Title Section-->
+    <Grid Grid.Row="0">  
+        <VerticalStackLayout Margin="0,30">
+                <Border 
+                     HeightRequest="220"
+                       WidthRequest="220"
+                    StrokeShape="RoundRectangle 25"
+                    >
+                    <Image Source="logo.jpg"
+                    HeightRequest="200"
+                    WidthRequest="200"
+                    HorizontalOptions="Center"
+                    Aspect="AspectFit"
+                           
+                           
+       
+        
+                    
+    />
+
+                </Border>
+            
+                <Label Text="Aviana"
+                    TextColor="{StaticResource WhiteBg}"
+                    VerticalTextAlignment="Center" 
+                       FontSize="40"
+                       HorizontalTextAlignment="Center"
+                       Padding="0,10"
+                       TextDecorations="None" 
+                      
+                    />
+
+                <Label Text="Bird Watching"
+     TextColor="{StaticResource WhiteBg}"
+     VerticalTextAlignment="Center" 
+        FontSize="Subtitle"
+        HorizontalTextAlignment="Center"
+      
+       
+     />
+
+
+
+                <material:EditorField Title="Email" 
+                                      BorderColor="{StaticResource OutlineGreen}"
+                                      AccentColor="{StaticResource OutlineGreen}"
+                                      TextColor="White" 
+                                      Padding="10,10"
+                                      CursorPosition="1" 
+                                      
+                                      />
+
+                <material:EditorField Title="Password" 
+                       BorderColor="{StaticResource OutlineGreen}"
+                       AccentColor="{StaticResource OutlineGreen}"
+                       TextColor="White" 
+                       Padding="10,10"
+                       CursorPosition="1" 
+                                      CharacterSpacing="3"
+                                      IsVisible="Visible"
+                                    
+                                      
+                       
+                       />
+
+
+        <material:TextField Title="Password"
+             IsPassword="True"
+             AccentColor="{StaticResource OutlineGreen}" 
+              BorderColor="{StaticResource OutlineGreen}"
+                      
+                       TextColor="White" 
+                       Padding="10,10"
+                       CursorPosition="1" 
+                                      CharacterSpacing="3"
+
+              >
+            <material:TextField.Attachments>
+                <material:TextFieldPasswordShowHideAttachment/>
+            </material:TextField.Attachments>
+        </material:TextField>
+           
+
+                <Button Text="Login" Style="{StaticResource OutlineButton}"
+                        Margin="10"
+                        Command="{Binding NavToRegisterPageCommand}"
+                        />
+
+          </VerticalStackLayout>
+       
+    </Grid>
+
+    <Grid Grid.Row="1">
+            <Frame CornerRadius="25" Padding="10">
+                <VerticalStackLayout Background="White"
+                        HeightRequest="240"
+                        WidthRequest="300"
+>
+
+
+                </VerticalStackLayout>
+
+            </Frame>
+
+        </Grid>
+    
+
+   </Grid>
+</ContentPage>

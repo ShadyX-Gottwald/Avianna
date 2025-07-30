@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:uranium="http://schemas.enisn-projects.io/dotnet/maui/uraniumui"
+ xmlns:material="http://schemas.enisn-projects.io/dotnet/maui/uraniumui/material"
+             x:Class="Avianna.presentation.RegisterPage"
+             xmlns:viewmodel="clr-namespace:Avianna.Features.LoginRegister"
+             Title="RegisterPage">
+
+             <!--Import Viewmodel--> 
+            <ContentPage.BindingContext> 
+                <viewmodel:LoginRegisterViewModel ></viewmodel:LoginRegisterViewModel>
+            </ContentPage.BindingContext>
+    <!--Main Grid-->
+    <Grid  BackgroundColor="{StaticResource DeepPurple}" >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+
+        </Grid.RowDefinitions>
+
+        <!--Image and Title Section-->
+        <Grid Grid.Row="0"> 
+            <!--Top Text Part-->
+            <Frame CornerRadius="12" Padding="10">
+                <VerticalStackLayout Background="White"
+                        HeightRequest="240"
+                        WidthRequest="300"
+>
+                    
+
+                </VerticalStackLayout>
+
+            </Frame>
+
+            <VerticalStackLayout Padding="17,0,0,0">
+
+                <Label Text="Lets"
+                TextColor="{StaticResource Brown}"
+                 VerticalTextAlignment="Start" 
+                FontSize="50"
+                HorizontalTextAlignment="Start"
+                Padding="5"
+                TextDecorations="None" 
+                       FontAttributes="Bold"
+  
+/>
+                <Label Text="CREATE"
+                TextColor="{StaticResource Brown}"
+                 VerticalTextAlignment="Start" 
+                FontSize="30"
+                HorizontalTextAlignment="Start"
+                Padding="5"
+                TextDecorations="None" 
+                       FontAttributes="Bold"
+  
+/>
+                <Label Text="YOUR"
+                TextColor="{StaticResource Brown}"
+                 VerticalTextAlignment="Start" 
+                FontSize="30"
+                HorizontalTextAlignment="Start"
+                Padding="10"
+                
+                       FontAttributes="Bold"
+  
+/>
+                <Label Text="ACCOUNT"
+                TextColor="{StaticResource Brown}"
+                 VerticalTextAlignment="Start" 
+                FontSize="30"
+                HorizontalTextAlignment="Start"
+                Padding="5"
+                
+                       FontAttributes="Bold"
+  
+/>
+
+
+                <VerticalStackLayout>
+                   
+
+                  
+
+                </VerticalStackLayout>
+
+                
+                
+               
+
+            </VerticalStackLayout>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+
+            <VerticalStackLayout Padding="25" >
+                <material:EditorField Title="Email" 
+                         BorderColor="{StaticResource OutlineGreen}"
+                         AccentColor="{StaticResource OutlineGreen}"
+                         TextColor="White" 
+                         Padding="10,10"
+                         CursorPosition="1" 
+                         
+                         />
+                <material:EditorField Title="UserName" 
+          BorderColor="{StaticResource OutlineGreen}"
+          AccentColor="{StaticResource OutlineGreen}"
+          TextColor="White" 
+          Padding="10,10"
+          CursorPosition="1" 
+          
+          />
+
+
+                <material:TextField Title="Password"
+                    IsPassword="True"
+                    AccentColor="{StaticResource OutlineGreen}" 
+                    BorderColor="{StaticResource OutlineGreen}"
+         
+                    TextColor="White" 
+                    Padding="10,10"
+                    CursorPosition="1" 
+                    CharacterSpacing="3"
+
+ >
+                    <material:TextField.Attachments>
+                        <material:TextFieldPasswordShowHideAttachment/>
+                    </material:TextField.Attachments>
+                </material:TextField>
+
+                <material:TextField Title="Retype Password"
+                   IsPassword="True"
+                   AccentColor="{StaticResource OutlineGreen}" 
+                   BorderColor="{StaticResource OutlineGreen}"
+        
+                   TextColor="White" 
+                   Padding="10,10"
+                   CursorPosition="1" 
+                   CharacterSpacing="3"
+
+>
+                    <material:TextField.Attachments>
+                        <material:TextFieldPasswordShowHideAttachment/>
+                    </material:TextField.Attachments>
+                </material:TextField>
+                
+                <!--CheckBox and Text-->
+                <HorizontalStackLayout Margin="15">
+                    <material:CheckBox BorderColor="{StaticResource OutlineGreen}" />
+                    <Label Text="I agree to Terms and Conditions"
+                           TextColor="White"
+                           Padding="4"
+                           />
+                </HorizontalStackLayout>
+               
+
+
+                <!--SignUp Button -->
+
+                <Button Text="Sign Up" BackgroundColor="{StaticResource White}" 
+                        TextColor="{StaticResource Brown}"
+                        CornerRadius="25"
+                        FontSize="20"
+                        FontAttributes="Bold"
+           Margin="10"
+                        Command="{Binding NavToHomePageCommand}"
+           />
+                <Label Text="Have an Account? Sign In"
+                       TextColor="White"
+                       Margin="10" 
+                       Padding="10"
+                       >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding NavToLoginPageCommand}"  />
+                    </Label.GestureRecognizers>
+                </Label>
+            </VerticalStackLayout>
+               
+        </Grid>
+    </Grid>
+</ContentPage>

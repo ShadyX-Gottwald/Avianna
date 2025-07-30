@@ -1,0 +1,13 @@
+c:\Users\unakho\source\repos\Avianna\Avianna\bin\Debug\net8.0\Avianna.deps.json
+c:\Users\unakho\source\repos\Avianna\Avianna\bin\Debug\net8.0\Avianna.dll
+c:\Users\unakho\source\repos\Avianna\Avianna\bin\Debug\net8.0\Avianna.pdb
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.csproj.AssemblyReference.cache
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.AssemblyInfoInputs.cache
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.AssemblyInfo.cs
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.csproj.CoreCompileInputs.cache
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\XamlC.stamp
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.dll
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\refint\Avianna.dll
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.pdb
+c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\ref\Avianna.dll

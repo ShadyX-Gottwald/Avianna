@@ -1,0 +1,19 @@
+﻿
+
+.outline-button { 
+    background-color:transparent;
+    border-color:#2196F3;
+    border-width: thin;
+    color:white; 
+    border-radius: 5px; 
+    padding:12px; 
+    font-size:14px; 
+    font-weight:200;
+
+}
+
+
+
+.outline-button:hover{ 
+    opacity:0.8
+}

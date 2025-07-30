@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Avianna.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Avianna" 
+    xmlns:pages="clr-namespace:Avianna.presentation"
+    xmlns:extra="clr-namespace:Avianna.Reference"
+    Shell.FlyoutBehavior="Disabled"
+    Shell.NavBarIsVisible="False"
+    Title="Avianna">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate pages:LoginPage}"
+        Route="LoginPage" />
+
+    <ShellContent
+     Title="Home"
+     ContentTemplate="{DataTemplate pages:RegisterPage}"
+     Route="RegisterPage" />
+
+    <TabBar>
+        <Tab Title="Home" Icon="home_icon.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:HomePage}" Route="HomePage">
+                
+            </ShellContent>
+        </Tab>
+
+        <Tab Title="Birds" Icon="crow_bird_icon.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:BirdsPage}" Route="BirdsPage">
+
+            </ShellContent>
+        </Tab>
+
+        <Tab Title="Profile" Icon="profile_icon.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:ProfilePage}" Route="ProfilePage">
+
+            </ShellContent>
+        </Tab>
+
+        <Tab Title="Settings" Icon="settings_icon.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:SettingsPage}" Route="SettingsPage">
+
+            </ShellContent>
+        </Tab>
+    </TabBar>
+
+</Shell>
