@@ -6,9 +6,9 @@
                   builder
                       .UseSharedMauiApp()
                       ;
-                      
-                      
-                      
+
+
+
 
                   return builder.Build();
             }

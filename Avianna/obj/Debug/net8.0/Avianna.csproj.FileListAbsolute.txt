@@ -11,3 +11,4 @@ c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.dll
 c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\refint\Avianna.dll
 c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.pdb
 c:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\ref\Avianna.dll
+C:\Users\unakho\source\repos\Avianna\Avianna\obj\Debug\net8.0\Avianna.sourcelink.json
