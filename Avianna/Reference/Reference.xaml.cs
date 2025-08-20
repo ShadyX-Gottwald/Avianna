@@ -1,9 +1,8 @@
 namespace Avianna.Reference;
 
-public partial class Reference : ContentPage
-{
-	public Reference()
-	{
-		InitializeComponent();
-	}
+public partial class Reference : ContentPage {
+      public Reference() {
+            InitializeComponent();
+
+      }
 }

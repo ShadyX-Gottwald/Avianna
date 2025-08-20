@@ -2,8 +2,87 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
            xmlns:maps="http://schemas.microsoft.com/dotnet/2021/maui/maps"
-             x:Class="Avianna.presentation.HomePage"
-             Title="HomePage">
+             
+           xmlns:appbar="clr-namespace:Avianna.ReUseComponents.Controls.AppHeader"
+             xmlns:bar="clr-namespace:Avianna.ReUseComponents.Controls.CustomAppbar"
+             x:Class="Avianna.presentation.HomePage" 
+             xmlns:viewmodel="clr-namespace:Avianna.presentation.ViewModels.Location"
+             xmlns:sensors="clr-namespace:Microsoft.Maui.Devices.Sensors;assembly=Microsoft.Maui.Essentials"
+             Title="HomePage"> 
+    
+    <!--Viewmodel Import -->
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <viewmodel:HomeViewmodel x:Key="HomeViewmodel" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
 
-    <maps:Map x:Name="map" IsShowingUser="True" IsZoomEnabled="True"  />
+    <ContentPage.BindingContext>
+        <viewmodel:HomeViewmodel/>
+    </ContentPage.BindingContext>
+
+    <Shell.TitleView>
+        <Grid ColumnDefinitions="*,Auto">
+            <Label Text="Home" HorizontalOptions="Center" 
+                   VerticalOptions="Center" FontSize="Large" FontAttributes="Bold">
+                
+            </Label>
+            <ImageButton Source="settings_icon.png" Grid.Column="1" 
+                         HorizontalOptions="End" VerticalOptions="Center" 
+                         BackgroundColor="Transparent" HeightRequest="24"
+                         WidthRequest="24" > 
+                
+            </ImageButton>
+        </Grid>
+    </Shell.TitleView>
+
+   <!-- <VerticalStackLayout>
+      <Button 
+        Text="New Button" BorderColor="Red"> 
+
+      </Button>
+
+      <maps:Map x:Name="map" IsShowingUser="True" IsZoomEnabled="True"  />
+    </VerticalStackLayout> --> 
+
+     <!-- Single-layer layout with map and overlay elements -->
+    <Grid RowDefinitions="59,*" >
+
+       <!-- <Label Grid.Row="0" Text="Hello" HorizontalOptions="Center"></Label>
+        <appbar:AppHeader Title="Title" Grid.Row="0" HorizontalOptions="Fill" VerticalOptions="Fill" ></appbar:AppHeader>
+    -->
+        <Grid ColumnDefinitions="*,Auto" Grid.Row="0" HeightRequest="40" >
+            <Label Text="Motherwell,nu7" HorizontalOptions="Center" 
+                   VerticalOptions="Center" FontSize="Title" FontAttributes="Bold">
+
+            </Label>
+            <ImageButton Source="settings_icon.png" Grid.Column="1" 
+                         HorizontalOptions="End" VerticalOptions="Center" 
+                         BackgroundColor="Transparent" HeightRequest="24"
+                         WidthRequest="24" Margin="0,0,16,0">
+
+            </ImageButton>
+        </Grid>
+
+        <!-- Map Control as base layer -->
+      <!--  <maps:Map x:Name="map"
+                      IsShowingUser="True"
+                      IsZoomEnabled="True"
+                      Grid.Row="1"  
+                       
+                    />-->
+
+
+        <!-- Map View -->
+        <maps:Map x:Name="map"
+                  MapType="Satellite"
+                  ItemsSource="{Binding UserLocation}"
+                  Grid.Row="1">
+          
+           
+        </maps:Map>
+
+    </Grid>
+   
+    
 </ContentPage>
