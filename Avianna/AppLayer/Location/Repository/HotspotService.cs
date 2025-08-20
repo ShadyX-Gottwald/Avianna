@@ -24,6 +24,7 @@ namespace Avianna.AppLayer.Location.Repository;
 public class HotspotService :IEbirdLocationRepo {
 
       private readonly IEbirdLocationRepo _ebirdLocation;
+      private Object Obj {get;set;}
       public HotspotService(IEbirdLocationRepo ebirdLocation) { 
             _ebirdLocation = ebirdLocation;
       }
