@@ -1,9 +1,7 @@
-namespace Avianna.Resources.Styles;
+﻿namespace Avianna.Resources.Styles;
 
-public partial class NewStyles : ResourceDictionary
-{
-	public NewStyles()
-	{
-		InitializeComponent();
-	}
+public partial class NewStyles : ResourceDictionary {
+      public NewStyles() {
+            InitializeComponent();
+      }
 }

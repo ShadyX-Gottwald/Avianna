@@ -74,6 +74,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Avianna.presentation.Setti
 build_metadata.AdditionalFiles.TargetPath = presentation\SettingsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = presentation\SettingsPage.xaml
 
+[C:/Users/unakho/source/repos/Avianna/Avianna/presentation/WelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Avianna.presentation.WelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = presentation\WelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = presentation\WelcomePage.xaml
+
 [C:/Users/unakho/source/repos/Avianna/Avianna/Reference/Reference.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Avianna.Reference.Reference.xaml
@@ -97,6 +103,30 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Avianna.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/unakho/source/repos/Avianna/Avianna/ReUseComponents/Controls/AppHeader/AppHeader.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Avianna.ReUseComponents.Controls.AppHeader.AppHeader.xaml
+build_metadata.AdditionalFiles.TargetPath = ReUseComponents\Controls\AppHeader\AppHeader.xaml
+build_metadata.AdditionalFiles.RelativePath = ReUseComponents\Controls\AppHeader\AppHeader.xaml
+
+[C:/Users/unakho/source/repos/Avianna/Avianna/ReUseComponents/Controls/CustomAppbar/AppBarCustom.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Avianna.ReUseComponents.Controls.CustomAppbar.AppBarCustom.xaml
+build_metadata.AdditionalFiles.TargetPath = ReUseComponents\Controls\CustomAppbar\AppBarCustom.xaml
+build_metadata.AdditionalFiles.RelativePath = ReUseComponents\Controls\CustomAppbar\AppBarCustom.xaml
+
+[C:/Users/unakho/source/repos/Avianna/Avianna/ReUseComponents/Controls/CustomAppbar/CustomAppbar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Avianna.ReUseComponents.Controls.CustomAppbar.CustomAppbar.xaml
+build_metadata.AdditionalFiles.TargetPath = ReUseComponents\Controls\CustomAppbar\CustomAppbar.xaml
+build_metadata.AdditionalFiles.RelativePath = ReUseComponents\Controls\CustomAppbar\CustomAppbar.xaml
+
+[C:/Users/unakho/source/repos/Avianna/Avianna/ReUseComponents/Controls/CustomPin/CustomPinView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Avianna.ReUseComponents.Controls.CustomPin.CustomPinView.xaml
+build_metadata.AdditionalFiles.TargetPath = ReUseComponents\Controls\CustomPin\CustomPinView.xaml
+build_metadata.AdditionalFiles.RelativePath = ReUseComponents\Controls\CustomPin\CustomPinView.xaml
 
 [C:/Users/unakho/source/repos/Avianna/Avianna/Resources/Styles/outline-button.css]
 build_metadata.AdditionalFiles.GenKind = Css

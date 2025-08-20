@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Avianna.ReUseComponents.Controls.CustomAppBar.CustomAppbar"
+             
+            >
+<Grid HeightRequest="60"
+          BackgroundColor="Red">
+        <!-- Back Button (Visible only when needed) -->
+        <Button x:Name="BackButton"
+                
+                HorizontalOptions="Start"
+                IsVisible="True"
+                
+                BackgroundColor="#000BB660"/>
+        
+        <!-- Title -->
+        <Label Text="Label"
+               FontSize="18"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
+    </Grid>
+</ContentView>

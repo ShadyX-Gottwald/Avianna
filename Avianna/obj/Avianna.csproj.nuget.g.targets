@@ -7,6 +7,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.maui.core\8.0.100\buildTransitive\Microsoft.Maui.Core.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.core\8.0.100\buildTransitive\Microsoft.Maui.Core.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\8.0.100\buildTransitive\netstandard2.0\Microsoft.Maui.Controls.Build.Tasks.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.maui.controls.build.tasks\8.0.100\buildTransitive\netstandard2.0\Microsoft.Maui.Controls.Build.Tasks.targets')" />
     <Import Project="$(NuGetPackageRoot)refit\8.0.0\buildTransitive\netstandard2.0\refit.targets" Condition="Exists('$(NuGetPackageRoot)refit\8.0.0\buildTransitive\netstandard2.0\refit.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.binder\8.0.0\buildTransitive\netstandard2.0\Microsoft.Extensions.Configuration.Binder.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.binder\8.0.0\buildTransitive\netstandard2.0\Microsoft.Extensions.Configuration.Binder.targets')" />
     <Import Project="$(NuGetPackageRoot)communitytoolkit.mvvm\8.4.0\buildTransitive\CommunityToolkit.Mvvm.targets" Condition="Exists('$(NuGetPackageRoot)communitytoolkit.mvvm\8.4.0\buildTransitive\CommunityToolkit.Mvvm.targets')" />
   </ImportGroup>
 </Project>

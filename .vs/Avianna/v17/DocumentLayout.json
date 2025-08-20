@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\unakho\\source\\repos\\Avianna\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\domain\\core\\location\\birdhotspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\domain\\core\\location\\birdhotspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\presentation\\viewmodels\\location\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\presentation\\viewmodels\\location\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\presentation\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\presentation\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +19,67 @@
       "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\presentation\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\applayer\\location\\interfaces\\iebirdlocationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\applayer\\location\\interfaces\\iebirdlocationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\reusecomponents\\controls\\custompin\\custompinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\reusecomponents\\controls\\custompin\\custompinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\infrastructure\\helpers\\maphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\infrastructure\\helpers\\maphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\domain\\core\\location\\maps\\custompin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\domain\\core\\location\\maps\\custompin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\domain\\core\\location\\maps\\pintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\domain\\core\\location\\maps\\pintype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\applayer\\location\\repository\\hotspotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\applayer\\location\\repository\\hotspotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\avianna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\avianna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\presentation\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\presentation\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\reusecomponents\\controls\\appheader\\appheader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\reusecomponents\\controls\\appheader\\appheader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\reusecomponents\\controls\\appheader\\appheader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\reusecomponents\\controls\\appheader\\appheader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\reusecomponents\\controls\\customappbar\\appbarcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\reusecomponents\\controls\\customappbar\\appbarcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\presentation\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\presentation\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\reusecomponents\\controls\\customappbar\\appbarcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\reusecomponents\\controls\\customappbar\\appbarcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAB4CA02-0B3D-4F15-8284-D008D204B188}|Avianna.Droid\\Avianna.Droid.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna.droid\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
@@ -26,10 +93,6 @@
       "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\presentation\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\presentation\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\features\\loginregister\\loginregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\features\\loginregister\\loginregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,10 +103,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\presentation\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\presentation\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\avianna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|solutionrelative:avianna\\avianna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8C2215B-131D-4252-B7E3-58555E2234C7}|Avianna\\Avianna.csproj|c:\\users\\unakho\\source\\repos\\avianna\\avianna\\resources\\styles\\newstyles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,7 +140,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,33 +148,250 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "Avianna\\presentation\\HomePage.xaml.cs",
               "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\HomePage.xaml.cs",
               "RelativeToolTip": "Avianna\\presentation\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T21:35:00.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MauiProgramExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\MauiProgramExtensions.cs",
-              "RelativeDocumentMoniker": "Avianna\\MauiProgramExtensions.cs",
-              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\MauiProgramExtensions.cs",
-              "RelativeToolTip": "Avianna\\MauiProgramExtensions.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAABXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeViewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\ViewModels\\Location\\HomeViewmodel.cs",
+              "RelativeDocumentMoniker": "Avianna\\presentation\\ViewModels\\Location\\HomeViewmodel.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\ViewModels\\Location\\HomeViewmodel.cs",
+              "RelativeToolTip": "Avianna\\presentation\\ViewModels\\Location\\HomeViewmodel.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T16:34:01.01Z",
+              "WhenOpened": "2025-08-08T22:35:10.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Avianna\\presentation\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\HomePage.xaml",
+              "RelativeToolTip": "Avianna\\presentation\\HomePage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T01:30:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEbirdLocationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\AppLayer\\Location\\Interfaces\\IEbirdLocationRepo.cs",
+              "RelativeDocumentMoniker": "Avianna\\AppLayer\\Location\\Interfaces\\IEbirdLocationRepo.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\AppLayer\\Location\\Interfaces\\IEbirdLocationRepo.cs",
+              "RelativeToolTip": "Avianna\\AppLayer\\Location\\Interfaces\\IEbirdLocationRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:23:31.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirdHotspot.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Domain\\Core\\Location\\BirdHotspot.cs",
+              "RelativeDocumentMoniker": "Avianna\\Domain\\Core\\Location\\BirdHotspot.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Domain\\Core\\Location\\BirdHotspot.cs",
+              "RelativeToolTip": "Avianna\\Domain\\Core\\Location\\BirdHotspot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:22:02.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgramExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\MauiProgramExtensions.cs",
+              "RelativeDocumentMoniker": "Avianna\\MauiProgramExtensions.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\MauiProgramExtensions.cs",
+              "RelativeToolTip": "Avianna\\MauiProgramExtensions.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:34:01.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Avianna\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Avianna\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:23:18.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomPinView.xaml",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\CustomPin\\CustomPinView.xaml",
+              "RelativeDocumentMoniker": "Avianna\\ReUseComponents\\Controls\\CustomPin\\CustomPinView.xaml",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\CustomPin\\CustomPinView.xaml",
+              "RelativeToolTip": "Avianna\\ReUseComponents\\Controls\\CustomPin\\CustomPinView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-09T02:29:22.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.NET.Sdk.ImportWorkloads.props",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.props",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-09T15:03:29.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomPin.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Domain\\Core\\Location\\Maps\\CustomPin.cs",
+              "RelativeDocumentMoniker": "Avianna\\Domain\\Core\\Location\\Maps\\CustomPin.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Domain\\Core\\Location\\Maps\\CustomPin.cs",
+              "RelativeToolTip": "Avianna\\Domain\\Core\\Location\\Maps\\CustomPin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:41:50.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapHelper.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Infrastructure\\Helpers\\MapHelper.cs",
+              "RelativeDocumentMoniker": "Avianna\\Infrastructure\\Helpers\\MapHelper.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Infrastructure\\Helpers\\MapHelper.cs",
+              "RelativeToolTip": "Avianna\\Infrastructure\\Helpers\\MapHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:45:21.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PinType.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Domain\\Core\\Location\\Maps\\PinType.cs",
+              "RelativeDocumentMoniker": "Avianna\\Domain\\Core\\Location\\Maps\\PinType.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Domain\\Core\\Location\\Maps\\PinType.cs",
+              "RelativeToolTip": "Avianna\\Domain\\Core\\Location\\Maps\\PinType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:40:14.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotspotService.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\AppLayer\\Location\\Repository\\HotspotService.cs",
+              "RelativeDocumentMoniker": "Avianna\\AppLayer\\Location\\Repository\\HotspotService.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\AppLayer\\Location\\Repository\\HotspotService.cs",
+              "RelativeToolTip": "Avianna\\AppLayer\\Location\\Repository\\HotspotService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:23:30.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppBarCustom.xaml",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml",
+              "RelativeDocumentMoniker": "Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml",
+              "RelativeToolTip": "Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-02T01:22:23.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppHeader.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml.cs",
+              "RelativeDocumentMoniker": "Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml.cs",
+              "RelativeToolTip": "Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:30:17.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "Avianna\\presentation\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\RegisterPage.xaml",
+              "RelativeToolTip": "Avianna\\presentation\\RegisterPage.xaml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T04:30:50.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppHeader.xaml",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml",
+              "RelativeDocumentMoniker": "Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml",
+              "RelativeToolTip": "Avianna\\ReUseComponents\\Controls\\AppHeader\\AppHeader.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-03T13:22:48.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppBarCustom.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml.cs",
+              "RelativeDocumentMoniker": "Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml.cs",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml.cs",
+              "RelativeToolTip": "Avianna\\ReUseComponents\\Controls\\CustomAppbar\\AppBarCustom.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:29:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "Avianna\\presentation\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\WelcomePage.xaml",
+              "RelativeToolTip": "Avianna\\presentation\\WelcomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-03T13:15:11.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Avianna.csproj",
+              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Avianna.csproj",
+              "RelativeDocumentMoniker": "Avianna\\Avianna.csproj",
+              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Avianna.csproj",
+              "RelativeToolTip": "Avianna\\Avianna.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T16:03:52.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna.Droid\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "Avianna.Droid\\AndroidManifest.xml",
@@ -126,20 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\HomePage.xaml",
-              "RelativeDocumentMoniker": "Avianna\\presentation\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\HomePage.xaml",
-              "RelativeToolTip": "Avianna\\presentation\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-16T15:40:46.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\unakho\\.nuget\\packages\\communitytoolkit.maui.maps\\2.0.4\\ReadMe.txt",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui.maps\\2.0.4\\ReadMe.txt",
@@ -151,19 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\RegisterPage.xaml",
-              "RelativeDocumentMoniker": "Avianna\\presentation\\RegisterPage.xaml",
-              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\RegisterPage.xaml",
-              "RelativeToolTip": "Avianna\\presentation\\RegisterPage.xaml",
-              "ViewState": "AgIAAJYAAAAAAAAAAIBJwKcAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-18T04:30:50.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\AppShell.xaml",
               "RelativeDocumentMoniker": "Avianna\\AppShell.xaml",
@@ -175,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "LoginRegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Features\\LoginRegister\\LoginRegisterViewModel.cs",
               "RelativeDocumentMoniker": "Avianna\\Features\\LoginRegister\\LoginRegisterViewModel.cs",
@@ -187,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\LoginPage.xaml",
               "RelativeDocumentMoniker": "Avianna\\presentation\\LoginPage.xaml",
@@ -199,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\presentation\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "Avianna\\presentation\\LoginPage.xaml.cs",
@@ -211,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Styles.xaml",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "Avianna\\Resources\\Styles\\Styles.xaml",
@@ -223,19 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Avianna.csproj",
-              "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Avianna.csproj",
-              "RelativeDocumentMoniker": "Avianna\\Avianna.csproj",
-              "ToolTip": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Avianna.csproj",
-              "RelativeToolTip": "Avianna\\Avianna.csproj",
-              "ViewState": "AgIAABgAAAAAAAAAAAAWwCsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-14T16:03:52.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "NewStyles.xaml.cs",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Resources\\Styles\\NewStyles.xaml.cs",
               "RelativeDocumentMoniker": "Avianna\\Resources\\Styles\\NewStyles.xaml.cs",
@@ -247,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\App.xaml",
               "RelativeDocumentMoniker": "Avianna\\App.xaml",
@@ -259,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "outline-button.css",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Resources\\Styles\\outline-button.css",
               "RelativeDocumentMoniker": "Avianna\\Resources\\Styles\\outline-button.css",
@@ -271,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "logo.jpg - Bitmap [1024x1024, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna\\Resources\\Images\\logo.jpg",
               "RelativeDocumentMoniker": "Avianna\\Resources\\Images\\logo.jpg",
@@ -283,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna.Droid\\MainActivity.cs",
               "RelativeDocumentMoniker": "Avianna.Droid\\MainActivity.cs",
@@ -295,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "C:\\Users\\unakho\\source\\repos\\Avianna\\Avianna.Droid\\MainApplication.cs",
               "RelativeDocumentMoniker": "Avianna.Droid\\MainApplication.cs",

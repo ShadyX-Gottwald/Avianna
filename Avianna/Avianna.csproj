@@ -27,6 +27,7 @@
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.1" />
 		<PackageReference Include="Refit" Version="8.0.0" />
+		<PackageReference Include="Refit.HttpClientFactory" Version="8.0.0" />
 		<PackageReference Include="Supabase" Version="1.1.1" />
 		<PackageReference Include="UraniumUI" Version="2.11.1" />
 		<PackageReference Include="UraniumUI.Icons.MaterialIcons" Version="2.11.1" />
@@ -40,7 +41,19 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="presentation\WelcomePage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Reference\Reference.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ReUseComponents\Controls\AppHeader\AppHeader.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ReUseComponents\Controls\CustomAppbar\AppBarCustom.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ReUseComponents\Controls\CustomPin\CustomPinView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>  
     

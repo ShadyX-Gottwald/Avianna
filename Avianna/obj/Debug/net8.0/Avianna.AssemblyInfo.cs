@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avianna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abe1b90422697ed9155984dfe4e9f66e7411c720")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6beafa7e165ba1aff1beb546dc1b4501591514d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avianna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avianna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
